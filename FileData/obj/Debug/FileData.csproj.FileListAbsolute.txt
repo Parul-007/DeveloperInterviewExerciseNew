@@ -1,0 +1,8 @@
+D:\DeveloperInterviewExercise\FileData\bin\Debug\FileData.exe.config
+D:\DeveloperInterviewExercise\FileData\bin\Debug\FileData.exe
+D:\DeveloperInterviewExercise\FileData\bin\Debug\FileData.pdb
+D:\DeveloperInterviewExercise\FileData\bin\Debug\ThirdPartyTools.dll
+D:\DeveloperInterviewExercise\FileData\bin\Debug\ThirdPartyTools.pdb
+D:\DeveloperInterviewExercise\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+D:\DeveloperInterviewExercise\FileData\obj\Debug\FileData.exe
+D:\DeveloperInterviewExercise\FileData\obj\Debug\FileData.pdb
